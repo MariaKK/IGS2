@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGS1Consol", "IGS1Consol\IGS1Consol.csproj", "{CFAAB3AA-4313-4DF8-9FDE-237180558A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAAB3AA-4313-4DF8-9FDE-237180558A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAAB3AA-4313-4DF8-9FDE-237180558A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAAB3AA-4313-4DF8-9FDE-237180558A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAAB3AA-4313-4DF8-9FDE-237180558A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CEE4285-C4E1-4B22-88E0-0FA6685A4804}
+	EndGlobalSection
+EndGlobal
